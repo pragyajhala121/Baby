@@ -1,0 +1,25 @@
+
+.heading, #test
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_of_objects
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 20px;
+    margin-top : 30px;
+}
+#test{
+    font-size: 18 !important;
+}
